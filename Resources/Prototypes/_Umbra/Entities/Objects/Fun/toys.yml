@@ -204,7 +204,7 @@
   parent: PlushieLizard
   id: TakesPlushie
   name: Takes's Plushie
-  description: Little version of Takes-Great-Risk in a plush version. Smells like a bamboo and lilac.
+  description: Little Takes-Great-Risk in a plush version. Smells like a bamboo and lilac.
   suffix: PersonalItem
   components:
   - type: Sprite
