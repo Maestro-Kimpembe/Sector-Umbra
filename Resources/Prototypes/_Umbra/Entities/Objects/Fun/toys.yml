@@ -199,7 +199,7 @@
     equippedPrefix: gartei
     slots:
     - HEAD
-  # Players: Maestro2Kimpembe - Character: Takes-Great-Risk
+# Players: Maestro2Kimpembe - Character: Takes-Great-Risk
   - type: entity
   parent: PlushieLizard
   id: TakesPlushie
