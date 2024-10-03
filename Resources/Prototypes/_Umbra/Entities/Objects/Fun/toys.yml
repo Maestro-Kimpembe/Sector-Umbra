@@ -207,12 +207,12 @@
   description: Little version of Takes-Great-Risk in a plush version. Smells like a bamboo and lilac.
   suffix: PersonalItem
   components:
-  -type: Sprite
-  state: plushie_Takes
-  sprite: _Umbra/Objects/Fun/Toys/plushie_takes.rsi
-  -type: Clothing
-  quickEquip: false
-  sprite: _Umbra/Objects/Fun/Toys/plushie_takes.rsi
-  equippedPrefix: takes
-  slots:
-  - HEAD
+  - type: Sprite
+    state: plushie_Takes
+    sprite: _Umbra/Objects/Fun/Toys/plushie_takes.rsi
+  - type: Clothing
+    quickEquip: false
+    sprite: _Umbra/Objects/Fun/Toys/plushie_takes.rsi
+    equippedPrefix: takes
+    slots:
+    - HEAD
