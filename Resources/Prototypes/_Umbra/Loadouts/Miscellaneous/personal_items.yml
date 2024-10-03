@@ -441,3 +441,14 @@
   - !type:PersonalItemLoadoutEffect
     character:
     - Ardus Kaine
+
+# Takes's Plushie
+- type: loadout
+id: TakesPlushie
+ storage:
+    back:
+    - TakesPlushie
+  effects:
+  - !type:PersonalItemLoadoutEffect
+    character:
+    - Takes-Great-Risk
