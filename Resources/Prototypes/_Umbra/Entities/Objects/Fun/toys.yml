@@ -208,7 +208,7 @@
   suffix: PersonalItem
   components:
   - type: Sprite
-    state: plushie_Takes
+    state: plushie_takes
     sprite: _Umbra/Objects/Fun/Toys/plushie_takes.rsi
   - type: Clothing
     quickEquip: false
