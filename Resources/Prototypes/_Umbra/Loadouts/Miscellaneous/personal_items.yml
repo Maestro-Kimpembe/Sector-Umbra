@@ -444,8 +444,8 @@
 
 # Takes's Plushie
 - type: loadout
-id: TakesPlushie
- storage:
+  id: TakesPlushie
+  storage:
     back:
     - TakesPlushie
   effects:
