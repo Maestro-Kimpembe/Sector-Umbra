@@ -49,6 +49,7 @@
   - DutchiePlushie
   - ClothingUniformJumpsuitDrugeristic
   - AmokPlushie
+  - ArdusCoat
   - PlushieSky
 
 # Personal items specialised for Warden
@@ -96,6 +97,7 @@
   - ClothingUniformJumpsuitDrugeristic
   - AmokPlushie
   - PlushieSky
+  - ArdusCoat
 
 # Personal items specialised for Detective
 - type: loadoutGroup
@@ -142,3 +144,4 @@
   - ClothingUniformJumpsuitDrugeristic
   - AmokPlushie
   - PlushieSky
+  - ArdusCoat

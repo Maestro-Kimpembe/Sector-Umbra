@@ -441,3 +441,13 @@
   - !type:PersonalItemLoadoutEffect
     character:
     - Sky Tomson
+# Lion's Winter Coat
+- type: loadout
+  id: ArdusCoat
+  storage:
+    back:
+    - ArdusCoat
+  effects:
+  - !type:PersonalItemLoadoutEffect
+    character:
+    - Ardus Kaine
