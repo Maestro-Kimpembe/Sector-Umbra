@@ -23,3 +23,17 @@
     sprite: _Umbra/Clothing/OuterClothing/WinterCoats/oceancoat.rsi
   - type: Clothing
     sprite: _Umbra/Clothing/OuterClothing/WinterCoats/oceancoat.rsi
+
+# Player: Maestro2Kimpembe - Character: Ardus Kaine
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ArdusCoat
+  name: Lion's Winter Coat
+  description: An old and little worn winter coat of Ardus 'Lion' Kaine. It was used during ceremonies and special events.
+  suffix: PersonalItem
+  components:
+  - type: Sprite
+    sprite: _Umbra/Clothing/OuterClothing/WinterCoats/arduscoat.rsi
+  - type: Clothing
+    sprite: _Umbra/Clothing/OuterClothing/WinterCoats/arduscoat.rsi
+
